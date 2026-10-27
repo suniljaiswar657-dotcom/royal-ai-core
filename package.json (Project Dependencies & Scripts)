@@ -1,0 +1,14 @@
+{
+  "name": "royal-ai-core",
+  "version": "1.0.0",
+  "description": "Enterprise-grade autonomous AI infrastructure and B2B workflows.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Build process complete for static distribution'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
